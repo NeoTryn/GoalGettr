@@ -1,0 +1,26 @@
+:root {
+  --brand-color-dark: #003d2d;
+  --brand-color: #00b887;
+  --brand-color-light: #b6fdea;
+  --brand-color-darky: #01815f;
+
+  --blue-light: #d3eaff;
+  --blue: #4c9ee6;
+  --blue-dark: #0d3659;
+
+  --green-light: #b6e2bb;
+  --green: #5dc069;
+  --green-dark: #173a1b;
+
+  --gray-light: #c8cbd0;
+  --gray: #5b616a;
+  --gray-dark: #2f3237;
+
+  --rose-light: #d6c2cf;
+  --rose: #ac869f;
+  --rose-dark: #493141;
+
+  --red: #c8043f;
+  --red-dark: #500219;
+  --red-light: #fed7e3;
+}
